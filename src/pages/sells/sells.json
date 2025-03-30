@@ -1,0 +1,115 @@
+[
+    {
+        "cliente": "VARIOS",
+        "precio_total": 11.80,
+        "fecha_venta": "2025-03-20",
+        "detalle": [
+            {
+                "producto": "Papas Fritas Clásicas 150g",
+                "cantidad": 2,
+                "precio_unitario": 2.50,
+                "precio_total": 5.00
+            },
+            {
+                "producto": "Gaseosa Cola 500ml",
+                "cantidad": 2,
+                "precio_unitario": 1.80,
+                "precio_total": 3.60
+            },
+            {
+                "producto": "Energizante Extreme Boost 250ml",
+                "cantidad": 1,
+                "precio_unitario": 3.20,
+                "precio_total": 3.20
+            }
+        ]
+    },
+    {
+        "cliente": "JUAN PÉREZ",
+        "precio_total": 16.50,
+        "fecha_venta": "2025-03-19",
+        "detalle": [
+            {
+                "producto": "Cerveza Artesanal Golden 500ml",
+                "cantidad": 2,
+                "precio_unitario": 5.50,
+                "precio_total": 11.00
+            },
+            {
+                "producto": "Ron Añejo 700ml",
+                "cantidad": 1,
+                "precio_unitario": 5.50,
+                "precio_total": 5.50
+            }
+        ]
+    },
+    {
+        "cliente": "EMPRESA XYZ",
+        "precio_total": 187.00,
+        "fecha_venta": "2025-03-18",
+        "detalle": [
+            {
+                "producto": "Whisky Escocés 750ml",
+                "cantidad": 2,
+                "precio_unitario": 80.00,
+                "precio_total": 160.00
+            },
+            {
+                "producto": "Cigarrillos Clásicos (20 unidades)",
+                "cantidad": 2,
+                "precio_unitario": 12.00,
+                "precio_total": 24.00
+            },
+            {
+                "producto": "Chicle Menta Pack (10 unidades)",
+                "cantidad": 2,
+                "precio_unitario": 1.50,
+                "precio_total": 3.00
+            }
+        ]
+    },
+    {
+        "cliente": "CARLOS RAMÍREZ",
+        "precio_total": 9.40,
+        "fecha_venta": "2025-03-17",
+        "detalle": [
+            {
+                "producto": "Nachos con Queso 200g",
+                "cantidad": 2,
+                "precio_unitario": 3.20,
+                "precio_total": 6.40
+            },
+            {
+                "producto": "Jugo de Naranja Natural 1L",
+                "cantidad": 1,
+                "precio_unitario": 3.00,
+                "precio_total": 3.00
+            }
+        ]
+    },
+    {
+        "cliente": "EMPRESA ABC",
+        "precio_total": 112.00,
+        "fecha_venta": "2025-03-16",
+        "detalle": [
+            {
+                "producto": "Whisky Chivas Regal 12 Años 1L",
+                "cantidad": 1,
+                "precio_unitario": 105.00,
+                "precio_total": 105.00
+            },
+            {
+                "producto": "Maní Salado 180g",
+                "cantidad": 2,
+                "precio_unitario": 2.00,
+                "precio_total": 4.00
+            },
+            {
+                "producto": "Agua Mineral Sin Gas 1L",
+                "cantidad": 2,
+                "precio_unitario": 1.50,
+                "precio_total": 3.00
+            }
+        ]
+    }
+]

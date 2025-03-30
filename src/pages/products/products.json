@@ -1,0 +1,107 @@
+[
+    {
+        "id": 1,
+        "nombre": "Cerveza Artesanal Golden 500ml",
+        "categoria": "BEBIDAS ALCOHÓLICAS",
+        "marca": "GoldenBrew",
+        "precio": 5.50
+    },
+    {
+        "id": 2,
+        "nombre": "Whisky Escocés 750ml",
+        "categoria": "BEBIDAS ALCOHÓLICAS",
+        "marca": "Highland Spirits",
+        "precio": 80.00
+    },
+    {
+        "id": 3,
+        "nombre": "Vodka Premium 1L",
+        "categoria": "BEBIDAS ALCOHÓLICAS",
+        "marca": "Nordic Ice",
+        "precio": 65.00
+    },
+    {
+        "id": 4,
+        "nombre": "Ron Añejo 700ml",
+        "categoria": "BEBIDAS ALCOHÓLICAS",
+        "marca": "Caribbean Gold",
+        "precio": 45.00
+    },
+    {
+        "id": 5,
+        "nombre": "Refresco Cola 500ml",
+        "categoria": "BEBIDAS",
+        "marca": "FizzCola",
+        "precio": 1.80
+    },
+    {
+        "id": 6,
+        "nombre": "Agua Mineral Sin Gas 1L",
+        "categoria": "BEBIDAS",
+        "marca": "PureLife",
+        "precio": 1.50
+    },
+    {
+        "id": 7,
+        "nombre": "Energizante Extreme Boost 250ml",
+        "categoria": "BEBIDAS",
+        "marca": "PowerMax",
+        "precio": 3.20
+    },
+    {
+        "id": 8,
+        "nombre": "Jugo de Naranja Natural 1L",
+        "categoria": "BEBIDAS",
+        "marca": "FreshDrink",
+        "precio": 3.00
+    },
+    {
+        "id": 9,
+        "nombre": "Cigarrillos Clásicos (20 unidades)",
+        "categoria": "TABACO",
+        "marca": "SmokeKing",
+        "precio": 12.00
+    },
+    {
+        "id": 10,
+        "nombre": "Cigarrillos Light (20 unidades)",
+        "categoria": "TABACO",
+        "marca": "SmokeKing",
+        "precio": 11.50
+    },
+    {
+        "id": 11,
+        "nombre": "Papas Fritas Clásicas 150g",
+        "categoria": "SNACKS",
+        "marca": "CrunchyBites",
+        "precio": 2.50
+    },
+    {
+        "id": 12,
+        "nombre": "Nachos con Queso 200g",
+        "categoria": "SNACKS",
+        "marca": "MexiSnack",
+        "precio": 3.20
+    },
+    {
+        "id": 13,
+        "nombre": "Galletas de Chocolate 250g",
+        "categoria": "SNACKS",
+        "marca": "SweetBite",
+        "precio": 2.80
+    },
+    {
+        "id": 14,
+        "nombre": "Maní Salado 180g",
+        "categoria": "SNACKS",
+        "marca": "NutriNuts",
+        "precio": 2.00
+    },
+    {
+        "id": 15,
+        "nombre": "Chicle Menta Pack (10 unidades)",
+        "categoria": "SNACKS",
+        "marca": "FreshMint",
+        "precio": 1.50
+    }
+]
