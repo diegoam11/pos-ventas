@@ -45,7 +45,7 @@ export const HomeSells = () => {
         <div className="flex flex-col h-full w-ful">
             <div className="w-full mb-3">
                 <h1 className="text-2xl font-semibold mb-2">Vender</h1>
-                <Select value={null} onChange={handleProductSelect} options={options} />
+                <Select value={null} onChange={handleProductSelect} options={options} placeholder="Buscar producto por nombre" />
             </div>
             <h1 className="text-2xl font-semibold">Productos</h1>
             <div className="w-full flex-1 overflow-auto">
