@@ -3,6 +3,12 @@ import productsJson from './products.json'
 
 export const ProductsView = () => {
 
+    const paginationComponentOptions = {
+        rowsPerPageText: "Filas por página:",
+        rangeSeparatorText: "de",
+        selectAllRowsItemText: "Todo",
+    };
+
     const columns = [
         {
             name: 'Nombre',
@@ -38,6 +44,7 @@ export const ProductsView = () => {
                 responsive
                 dense
                 noDataComponent="Aún no hay productos."
+                paginationComponentOptions={paginationComponentOptions}
                 noHeader
             />
         </div>
